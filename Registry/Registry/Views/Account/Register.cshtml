@@ -1,0 +1,57 @@
+﻿@model CustomIdentityApp.ViewModels.RegisterViewModel
+<h2>Регистрация нового пользователя</h2>
+<form method="post" asp-controller="Account" asp-action="Register">
+    <div asp-validation-summary="ModelOnly"></div>
+    <div>
+        <label asp-for="Email"></label><br />
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label asp-for="Year"></label><br />
+        <input type="date" name="Year" value="Year" />    
+    </div>
+    <div>
+        <label asp-for="Password"></label><br />
+        <input asp-for="Password" />
+        <span asp-validation-for="Password"></span>
+    </div>
+    <div>
+        <label asp-for="PasswordConfirm"></label><br />
+        <input asp-for="PasswordConfirm" />
+        <span asp-validation-for="PasswordConfirm"></span>
+    </div>
+    <div>
+        <label asp-for="Famile"></label><br />
+        <input asp-for="Famile" />
+        <span asp-validation-for="Famile"></span>
+    </div>
+    <div>
+        <label asp-for="Name"></label><br />
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label asp-for="Phone"></label><br />
+        <input asp-for="Phone" />
+        <span asp-validation-for="Phone"></span>
+    </div>
+    <div>
+        <label asp-for="Address"></label><br />
+        <input asp-for="Address" />
+        <span asp-validation-for="Address"></span>
+    </div>
+    <div>
+        <label asp-for="Papers"></label><br />
+        <input asp-for="Papers" />
+        <span asp-validation-for="Papers"></span>
+    </div>
+    <div>
+        <label asp-for="Policy"></label><br />
+        <input asp-for="Policy" />
+        <span asp-validation-for="Policy"></span>
+    </div>
+    <div>
+        <input type="submit" value="Регистрация" />
+    </div>
+</form>

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<CustomIdentityApp.Models.Reception>
+@{
+    
+
+}
+<html>
+<head>
+    Заявки
+</head>
+<body>
+    <h3> Заявка</h3>
+
+    <form method="post">
+        @* ID доктора передается в скрытом текстовом поле *@
+        <input type="hidden" name="Doctor" value="@ViewBag.DoctorId" />
+        <input type="hidden" name="Patient" value="@User.Identity.Name" />
+
+
+
+        <p>Дата приёма:</p>
+        <input type="date" name="ReceptionDate" value="ReceptionDate" />
+        @for (var time = 8; time < 19; time++)
+        {
+
+            <button value="@time" name="Time" tupe="submit">@time.00</button>
+            
+        }
+
+
+    </form>
+
+</body>
+</html>

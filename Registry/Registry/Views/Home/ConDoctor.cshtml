@@ -1,0 +1,47 @@
+﻿@model IEnumerable<CustomIdentityApp.Models.Doctor>
+@{
+//ViewData["Title"] = "Список смартфонов";
+
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Доктора</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<body>
+    <h3>Доктора</h3>
+    <div class="col">
+        @foreach (var dok in Model)
+        {
+            <!--bootsrap - элемент-->
+
+            
+        <div class="col " style="margin-bottom:5px; ">
+            <a style="text-decoration: none;" class="loader-link" href="~/Home/Reception/@dok.DocId">
+                <!--Контура прямоугольника-->
+                <div class="rounded-0 card border-only-on-unvision text-dark btn btn-warning" style="min-height: 70px;">
+                    <!--Стиль текста-->
+                    <div class="card-body text-center portal-block-with-info btn btn-info" style="min-height: 70px; padding-top: 10px; padding-left: 2px; padding-right: 2px;">
+                        @*Текст*@
+                        <p style="margin-bottom: -2px;" class="font-weight-bold">@dok.Profession</p>
+                        <p style="margin-bottom: -2px;" class="font-weight-bold">@dok.Famile</p>
+                        <p style="margin-bottom: -2px;" class="font-weight-bold">@dok.Name</p>
+
+
+                    </div>
+
+                </div>
+            </a>
+
+        </div>
+        }
+
+        
+    
+</div>
+    
+</body>
+</html>

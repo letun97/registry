@@ -1,0 +1,50 @@
+﻿@model IEnumerable<CustomIdentityApp.Models.Doctor>
+@{
+    //ViewData["Title"] = "Список смартфонов";
+
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Доктора</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<body>
+    <h3>Доктора</h3>
+
+    @foreach (var dok in Model)
+    {
+        <!--bootsrap - элемент-->
+<div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3" style="margin-bottom:5px; ">
+    <!--ССылка-->
+    <a style="text-decoration: none;" class="loader-link" href="~/Home/DocReception/@dok.DocId">
+        <!--Контура прямоугольника-->
+        <div class="rounded-0 card border-only-on-unvision text-dark btn btn-warning" style="min-height: 160px;">
+            <!--Стиль текста-->
+            <div class="card-body text-center portal-block-with-info btn btn-info" style="min-height: 160px; padding-top: 10px; padding-left: 2px; padding-right: 2px;">
+                <!--Текст-->
+                <p style="margin-bottom: -2px;" class="font-weight-bold">@dok.Profession</p>
+                @*<p>@dok.DocId</p>*@
+
+            </div>
+
+        </div>
+    </a>
+
+</div>
+    }
+
+    @*<tr>
+            <td>@dok.Famile</td>
+            <td>@dok.Name</td>
+            <td>@dok.Profession</td>
+            <td><a href="~/Home/Edit/@dok.DocId">Добавить</a></td>
+        </tr>*@
+
+
+
+
+</body>
+</html>

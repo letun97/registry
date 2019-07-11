@@ -1,0 +1,255 @@
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.deps.json
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.json
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.dev.json
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.dll
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csprojAssemblyReference.cache
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CoreCompileInputs.cache
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cache
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfoInputs.cache
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfo.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.input.cache
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.output.cache
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorCoreGenerate.cache
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cache
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CopyComplete
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\ChangePassword.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\старые файлы\Удгу\я_задание\проэкт\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\UserList.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.deps.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.dev.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csprojAssemblyReference.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CoreCompileInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfoInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.input.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.output.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorCoreGenerate.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\UserList.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\ChangePassword.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp2\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CopyComplete
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csprojAssemblyReference.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CoreCompileInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfoInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.input.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.output.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorCoreGenerate.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ConDoctor.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Reception.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\UserList.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\ChangePassword.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.deps.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.dev.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp3\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CopyComplete
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.deps.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.dev.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csprojAssemblyReference.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CoreCompileInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfoInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.input.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.output.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorCoreGenerate.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ConDoctor.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Reception.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\UserList.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\ChangePassword.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp4\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CopyComplete
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.deps.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.dev.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csprojAssemblyReference.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CoreCompileInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfoInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.input.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.output.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorCoreGenerate.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ConDoctor.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Reception.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\UserList.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\ChangePassword.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CopyComplete
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ConDoctorAut.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DocReception.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\СomRec.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp5\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Bootstrap.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.deps.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.runtimeconfig.dev.json
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\bin\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csprojAssemblyReference.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CoreCompileInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfoInputs.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.AssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.input.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.TagHelpers.output.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorCoreGenerate.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ConDoctor.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ConDoctorAut.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DocReception.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Reception.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\СomRec.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Roles\UserList.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\ChangePassword.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cache
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.RazorTargetAssemblyInfo.cs
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.Views.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.dll
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.pdb
+E:\старые файлы\Удгу\дипломная работа\Проэкт\Проэкт\CustomIdentityApp6\CustomIdentityApp\obj\Debug\netcoreapp2.2\CustomIdentityApp.csproj.CopyComplete
